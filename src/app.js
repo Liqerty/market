@@ -21,13 +21,13 @@ function get_flower(img_src, name, info, price) {
 }
 
 let test = get_flower(
-    "../assets/test.png",
+    "assets/test.png",
     "Flowers",
     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum repellendus necessitatibus quod quis provident fugiat, aut soluta quas voluptate cum iste hic commodi sit qui aspernatur modi. Ab, recusandae temporibus.",
     "250руб"
 )
 let test2 = get_flower(
-    "../assets/test.png",
+    "assets/test.png",
     "Flowers",
     "test",
     "250руб"
